@@ -1,6 +1,7 @@
 ## Transmit_Beamforming_Needle_Imaging
 
 Repository to share the codes for ultrasound transmit beamforming for needle imaging
+
 In ultrasound (US) guided interventions, the accurate visualization and tracking of needles is a critical challenge, particularly during in-plane insertions. An inaccurate identification and localization of needles lead to severe inadvertent complications and increased procedure times. This is due to the inherent specular reflections from the needle with directivity depending on the angle of incidence of the US beam, and the needle inclination. Though several methods have been proposed for improved needle visualization, a detailed study emphasizing the physics of specular reflections resulting from the interaction of transmitted US beam with the needle remains to be explored. In this work, we discuss the properties of specular reflections from planar and spherical wave US transmissions respectively through multi-angle plane wave (PW) and synthetic transmit aperture (STA) techniques for in-plane needle insertion angles between 15°–50°.
 
 #### **Authors**: 
