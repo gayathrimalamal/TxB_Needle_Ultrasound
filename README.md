@@ -1,4 +1,4 @@
-## Transmit_Beamforming_Needle_Imaging
+## Comparison of Transmit Beamforming for In-Plane Needle Tracking in Ultrasound Guided Interventions
 
 Repository to share the codes for ultrasound transmit beamforming for needle imaging using RF data
 
