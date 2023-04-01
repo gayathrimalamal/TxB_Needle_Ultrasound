@@ -17,3 +17,6 @@ Sample Datasets are available in 10.5281/zenodo.7791802
 #### **Academic Reference to be Cited:**
 1.  G. Malamal and M. R. Panicker, “On the Physics of Ultrasound Transmission for In-Plane Needle Tracking in Guided Interventions,” in Biomedical Physics and Engineering Express. https://doi.org/10.1088/2057-1976/acc338. 
 
+#### Demo Video
+
+G. Malamal and M. R. Panicker. (2023) Reflection Characteristics based on Transmit Beamforming - youtube. [Online]. Available: https://youtube.com/playlist?list=PLiuuVhVNWBZQnabpdiwQu86J-b05YChEy
