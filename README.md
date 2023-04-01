@@ -12,7 +12,7 @@ Gayathri Malamal and Mahesh Raveendranatha Panicker, Center for Computational Im
 #### **Instructions for the execution of codes:**
 1. Load the dataset to be beamformed to the present working directory.
 2. The main file to be run is DAS_main.m. Set the parameters 'acq' (lines 21-22), 'tx' (lines 42-43) accordingly before the run.
-Sample Datasets are available in 
+Sample Datasets are available in 10.5281/zenodo.7791802
 
 #### **Academic Reference to be Cited:**
 1.  G. Malamal and M. R. Panicker, “On the Physics of Ultrasound Transmission for In-Plane Needle Tracking in Guided Interventions,” in Biomedical Physics and Engineering Express. https://doi.org/10.1088/2057-1976/acc338. 
