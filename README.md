@@ -10,7 +10,7 @@ Gayathri Malamal and Mahesh Raveendranatha Panicker, Center for Computational Im
 #### **Codes Available under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) (see https://creativecommons.org/licenses/by-nc-nd/4.0/)**
 
 #### **Instructions for the execution of codes:**
-1. Load the dataset to be beamformed to the present working directory.
+1. Load the dataset to be beamformed to the present working directory. (Dataset is provided under a license and contact mahesh@iitpkd.ac.in for the dataset)
 2. The main file to be run is DAS_main.m. Set the parameters 'acq' (lines 21-22), 'tx' (lines 42-43) accordingly before the run.
 Sample Datasets are available in 10.5281/zenodo.7791802
 
